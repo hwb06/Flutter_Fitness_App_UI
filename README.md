@@ -2,7 +2,7 @@
 
 ## **Project Description**
 
-♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ:A comprehensive mobile fitness application designed to provide personalized workout plans and track health metrics.
+♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A comprehensive mobile fitness application designed to provide personalized workout plans and track health metrics.
 
 ![App Cover](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/Active%20Fitness%20Cover.JPG)
 
@@ -109,6 +109,12 @@ Here are some screenshots of the app:
 ![#10](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/10.JPG)  
 ![#11](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/11.JPG)  
 ![#12](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/12.JPG)  
+
+
+### **App Demo**
+You can download and view the demo video of the app here:
+
+[Fluttter_FitnessApp_UI Link](https://github.com/hwb06/Flutter_Fitness_App_UI/releases/tag/v1.0.0)
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
