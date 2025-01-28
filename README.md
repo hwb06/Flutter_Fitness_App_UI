@@ -50,22 +50,6 @@
 - Sleep pattern monitoring
 - Cycling route tracking with map visualization
 
-# Specialized Programs
-- Quarantine-specific workouts
-- Body-focused routines:
-    - Belly fat burner
-    - Lose fat programs
-    - Plank challenges
-    - Sprint challenges
-    - Squat challenges
-- Fast warmup routines
-
-# Calendar & Progress
-- Weekly activity calendar
-- Daily workout plans
-- Progress visualization
-- Achievement tracking
-
 ## ♥ **Technical Specifications**:
 # UI Components
 - Modern, minimalist design
@@ -92,19 +76,6 @@
   - Progress visualization
   - Achievement tracking
 
-## ♥ **Technical Specifications**:
- # UI Components
-  - Modern, minimalist design
-  - Dark mode support
-  - Progress indicators
-  - Interactive workout cards
-  - Bottom navigation bar with:
-    - Home
-    - Features
-    - Analytics
-    - Profile
-- Responsive layouts for different screen sizes
-
 # Data Management
 - User profile storage
 - Workout history tracking
@@ -123,15 +94,6 @@
   - Workout history tracking
   - Health metrics logging
   - Progress data visualization
-
-# Navigation
-  - Intuitive user flow
-  - Easy access to workout categories
-  - Quick navigation between features
-  - Back button support
-
-## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
- - 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality.
 
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
