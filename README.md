@@ -107,7 +107,7 @@ Here are some screenshots of the app:
 ### **App Demo**
 You can download and view the demo video of the app here:
 
-[Fluttter_FitnessApp_UI Link](https://github.com/hwb06/Flutter_Fitness_App_UI/releases/tag/v1.0.0)
+[Fluttter_FitnessApp_UI Link](https://drive.google.com/file/d/19cSbHt13P0fwidm-3ilTQhxPtdUtictg/view?usp=drive_link)
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
