@@ -98,11 +98,11 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
  
-![#01](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/01.jpg) 
-![#02](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/02.jpg) 
-![#03](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/03.jpg) 
-![#04](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/04.jpg) 
-![#05](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/05.jpg) 
+![#01](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/Project%20Showcase/01.jpg) 
+![#02](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/Project%20Showcase/02.jpg) 
+![#03](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/Project%20Showcase/03.jpg) 
+![#04](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/Project%20Showcase/04.jpg) 
+![#05](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/Project%20Showcase/05.jpg) 
 
 ### **App Demo**
 You can download and view the demo video of the app here:
